@@ -4,6 +4,7 @@ I create this project because of my personal opinion because I want to create a 
 ![frt1](https://user-images.githubusercontent.com/61914430/152701091-1ff07baf-e976-4669-bf77-25cf6c1ecacc.PNG)
 ![frt2](https://user-images.githubusercontent.com/61914430/152701102-a179402b-f72b-45e0-8759-5d89720de005.PNG)
 ![frt3](https://user-images.githubusercontent.com/61914430/152701106-9636eee0-b5a7-40fe-8431-48ee0f63fd6a.PNG)
+![image](https://user-images.githubusercontent.com/61914430/152701235-4824ffa1-d53a-475e-8317-caf2e8004057.png)
 ![frt4](https://user-images.githubusercontent.com/61914430/152701115-52283e44-f3b3-417f-a201-763f9b3290fc.PNG)
 ![frt5](https://user-images.githubusercontent.com/61914430/152701119-e3b369be-8f4a-41ab-a417-32cdfc4cbc5f.PNG)
 ![frt6](https://user-images.githubusercontent.com/61914430/152701128-7a87dfe7-593c-44f5-a163-c0a35531921e.PNG)
