@@ -5,7 +5,25 @@ I created this project using VS Code and used Microsoft Azure Web Server RDP to 
 
 Video Link :- https://youtu.be/UHtjszrnaOs
 
-Demo Link visheshfrt.eastus.cloudapp.azure.com/
+Website Demo Link visheshfrt.eastus.cloudapp.azure.com/
+
+Industry :
+Lifestyle
+
+Project Title :
+Portfolio Website
+
+Problem Statement/Opportunity :
+I was thinking to make a portfolio website so that it would be easy for someone to view my resume and other details from one site.
+
+Project Description :
+I created this project to show my skills,education and work experience to the companies recuiters i wish to apply in and it would also be my online portfolio I created this project using VS Code and used Microsoft Azure Web Server RDP to host it online. It is hosted with help of windows server RDP.
+
+
+Primary Azure Technology :
+Virtual Machine,Server Manager,
+
+
 
 ![frt1](https://user-images.githubusercontent.com/61914430/152701091-1ff07baf-e976-4669-bf77-25cf6c1ecacc.PNG)
 ![frt2](https://user-images.githubusercontent.com/61914430/152701102-a179402b-f72b-45e0-8759-5d89720de005.PNG)
