@@ -21,7 +21,7 @@ I created this project to show my skills,education and work experience to the co
 
 
 Primary Azure Technology :
-Virtual Machine,Server Manager,
+Virtual Machine,Server Manager,Network Security Groups
 
 
 
