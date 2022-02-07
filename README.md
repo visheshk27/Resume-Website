@@ -23,6 +23,9 @@ I created this project to show my skills,education and work experience to the co
 Primary Azure Technology :
 Virtual Machine,Server Manager,Network Security Groups
 
+Languages :
+HTML,CSS,JAVASCRIPT
+
 
 
 ![frt1](https://user-images.githubusercontent.com/61914430/152701091-1ff07baf-e976-4669-bf77-25cf6c1ecacc.PNG)
