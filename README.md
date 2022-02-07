@@ -3,6 +3,10 @@ I created this project to show my skills,education and work experience to the co
 
 I created this project using VS Code and used Microsoft Azure Web Server RDP to host it online. 
 
+Video Link :- https://youtu.be/UHtjszrnaOs
+
+Demo Link visheshfrt.eastus.cloudapp.azure.com/
+
 ![frt1](https://user-images.githubusercontent.com/61914430/152701091-1ff07baf-e976-4669-bf77-25cf6c1ecacc.PNG)
 ![frt2](https://user-images.githubusercontent.com/61914430/152701102-a179402b-f72b-45e0-8759-5d89720de005.PNG)
 ![frt3](https://user-images.githubusercontent.com/61914430/152701106-9636eee0-b5a7-40fe-8431-48ee0f63fd6a.PNG)
