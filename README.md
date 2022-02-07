@@ -1,5 +1,7 @@
 # Vishesh_FRT
-I create this project because of my personal opinion because I want to create a project that shows my skills and what I have learned from the entire journey this is my personal website static web app, I created this web static App in 5 days and I used Microsoft azure technology which is Microsoft Azure static web app and I used Visual Studio cod…
+I created this project to show my skills,education and work experience to the companies recuiters i wish to apply in and it would also be my online portfolio 
+
+I created this project using VS Code and used Microsoft Azure Web Server RDP to host it online. 
 
 ![frt1](https://user-images.githubusercontent.com/61914430/152701091-1ff07baf-e976-4669-bf77-25cf6c1ecacc.PNG)
 ![frt2](https://user-images.githubusercontent.com/61914430/152701102-a179402b-f72b-45e0-8759-5d89720de005.PNG)
